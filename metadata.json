@@ -1,0 +1,5 @@
+{
+  "name": "TruthGuard AI",
+  "description": "An intelligent AI-powered fake news detection system that analyzes news content for credibility, writing style, and logical consistency.",
+  "requestFramePermissions": []
+}
