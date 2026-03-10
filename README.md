@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# TruthGuard AI – Fake News Detection System
 
-# Run and deploy your AI Studio app
+TruthGuard AI is an AI-powered system that helps users verify whether a news article is real or fake.
 
-This contains everything you need to run your app locally.
+## Problem
+Fake news spreads rapidly on social media and online platforms, making it difficult for users to identify trustworthy information.
 
-View your app in AI Studio: https://ai.studio/apps/658d7414-769b-4fab-b3ab-46bac73519d1
+## Solution
+TruthGuard AI allows users to paste a news headline, text, or URL.  
+The system analyzes the content using AI and provides credibility results.
 
-## Run Locally
+## Features
+- Fake news detection using AI
+- Chatbot assistant
+- Dashboard with analytics graphs
+- User-friendly interface
 
-**Prerequisites:**  Node.js
+## Technology Used
+- Google AI Studio
+- Gemini AI Model
+- React
+- Tailwind CSS
 
+## How It Works
+1. User pastes news text or URL.
+2. AI analyzes the content.
+3. The system returns credibility results.
+4. Dashboard shows analytics.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Author
+Jyothi Sivalanka
